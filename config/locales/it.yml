@@ -340,7 +340,7 @@ it:
   creditcard: "Carta di credito"
   creditcards: "Carte di credito"
   credits: "Credito"
-  current: "stato"
+  current: "Provincia"
   customer: "Cliente"
   customer_details: "Dettagli Cliente"
   customer_search: "Cerca Cliente"
