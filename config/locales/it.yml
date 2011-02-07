@@ -39,7 +39,7 @@ it:
           firstname: "Nome"
           lastname: "Cognome"
           phone: "Telefono"
-          state: "Stato"
+          state: "Provincia"
           zipcode: "CAP"
         ship_address: 
           address1: "Indirizzo Spedizione"
@@ -47,7 +47,7 @@ it:
           firstname: "Nome"
           lastname: "Cognome"
           phone: "Telefono"
-          state: "Stato"
+          state: "Provincia"
           zipcode: "CAP"
       country: 
         iso: 'ISO'
@@ -62,7 +62,7 @@ it:
         verification_value: "Codice di verifica"
         year: 'Anno'
       inventory_unit: 
-        state: 'Stato'
+        state: 'Provincia'
       line_item: 
         price: 'Prezzo'
         quantity: 'Quantità'
@@ -72,7 +72,7 @@ it:
         item_total: "Oggetti Totali"
         number: 'Numero'
         special_instructions: "Istruzioni speciali"
-        state: 'Stato'
+        state: 'Provincia'
         total: 'Totale'
       product: 
         available_on: "Disponibile in"
