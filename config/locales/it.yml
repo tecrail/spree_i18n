@@ -30,7 +30,7 @@ it:
         last_name: "Cognome"
         last_name_begins_with: "Il Cognome inizia con"
         phone: 'Telefono'
-        state: "Stato"
+        state: "Provincia"
         zipcode: "CAP"
       checkout: 
         bill_address: 
