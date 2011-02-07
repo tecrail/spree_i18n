@@ -184,8 +184,8 @@ it:
         one: "Consegna Categoria"
         other: "Consegna Categorie"
       state: 
-        one: 'Regione'
-        other: 'Regioni'
+        one: 'Provincia'
+        other: 'Province'
       tax_category: 
         one: "Categoria delle tasse"
         other: "Categorie delle tasse"
@@ -936,7 +936,7 @@ it:
   state: "Provincia"
   state_based: "Basato su una regione"
   state_setting_description: "Amministra l'elenco delle regioni e province abbiate ad ogni nazione."
-  states: "Regioni"
+  states: "Province"
   status: "Stato"
   stop: "Fine"
   store: "Negozio"
@@ -1029,5 +1029,5 @@ it:
   zip: "CAP"
   zone: "Zona"
   zone_based: "Zone Based"
-  zone_setting_description: "Elenco di paesi, regioni utilizzati nei diversi calcoli."
+  zone_setting_description: "Elenco di paesi, province utilizzati nei diversi calcoli."
   zones: "Zone"
