@@ -628,6 +628,7 @@ vn:
   payment_states: 
     balance_due: balance due
     credit_owed: credit owed
+    failed: failed
     paid: paid
   payment_updated: Thanh toán đã được cập nhật
   payments: Thanh toán
@@ -807,6 +808,7 @@ vn:
   provider: "Nhà cung cấp"
   provider_settings_warning: "Nếu thay đổi nhà cung cấp, bạn phải lưu trước khi sửa đổi cấu hình nhà cung cấp"
   qty: Số lượng
+  quantity_returned: Quantity Returned
   quantity_shipped: Tổng hàng đã chuyển
   range: "Mặt hàng"
   rate: Lãi suất

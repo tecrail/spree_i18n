@@ -628,6 +628,7 @@ th:
   payment_states: 
     balance_due: balance due
     credit_owed: credit owed
+    failed: failed
     paid: paid
   payment_updated: Payment Updated
   payments: รายการจ่าย
@@ -807,6 +808,7 @@ th:
   provider: "Provider"
   provider_settings_warning: "If you are changing the provider type, you must save first before you can edit the provider settings"
   qty: จำนวน
+  quantity_returned: Quantity Returned
   quantity_shipped: Quantity Shipped
   range: "Range"
   rate: "อัตรา(เปอร์เซ็น)"

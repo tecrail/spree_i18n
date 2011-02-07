@@ -628,6 +628,7 @@ jp:
   payment_states: 
     balance_due: balance due
     credit_owed: credit owed
+    failed: failed
     paid: paid
   payment_updated: Payment Updated
   payments: 支払い方法
@@ -807,6 +808,7 @@ jp:
   provider: "Provider"
   provider_settings_warning: "If you are changing the provider type, you must save first before you can edit the provider settings"
   qty: 個数
+  quantity_returned: Quantity Returned
   quantity_shipped: Quantity Shipped
   range: "Range"
   rate: 比率

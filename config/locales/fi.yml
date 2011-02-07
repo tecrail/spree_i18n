@@ -628,6 +628,7 @@ fi:
   payment_states: 
     balance_due: balance due
     credit_owed: credit owed
+    failed: failed
     paid: paid
   payment_updated: Maksu päivitetty
   payments: Maksut
@@ -807,6 +808,7 @@ fi:
   provider: Tarjoaja
   provider_settings_warning: Jos muutat tarjoajan tyyppiä, sinun täytyy tallentaa ennen kuin voit muuttaa tarjoajan asetuksia
   qty: lkm
+  quantity_returned: Quantity Returned
   quantity_shipped: Toimitettu määrä
   range: Väli
   rate: Taso

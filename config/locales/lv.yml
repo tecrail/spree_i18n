@@ -628,6 +628,7 @@ lv:
   payment_states: 
     balance_due: balance due
     credit_owed: credit owed
+    failed: failed
     paid: paid
   payment_updated: "Maksājums atjaunots"
   payments: "Maksājumi"
@@ -807,6 +808,7 @@ lv:
   provider: "Piegādātājs"
   provider_settings_warning: "Ja tu maini piegādātāja tipu, tev vajag vispirms saglabāt pirms veikt izmaiņas piegādātāja uzstādījumiem"
   qty: "Daudzums"
+  quantity_returned: Quantity Returned
   quantity_shipped: "Daudzums nosūtīts"
   range: "Diapazons"
   rate: "Tarifs"

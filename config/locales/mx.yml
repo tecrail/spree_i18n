@@ -628,6 +628,7 @@ mx:
   payment_states: 
     balance_due: balance due
     credit_owed: credit owed
+    failed: failed
     paid: paid
   payment_updated: Payment Updated
   payments: Pagos
@@ -807,6 +808,7 @@ mx:
   provider: "Proveedor"
   provider_settings_warning: "Si cambias el tipo de proveedor, debes salvar primero antes de que puedas editar las opciones de proveedor"
   qty: Cant.
+  quantity_returned: Quantity Returned
   quantity_shipped: Cantidad Enviada
   range: "Rango"
   rate: proporción

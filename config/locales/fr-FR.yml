@@ -628,6 +628,7 @@ fr-FR:
   payment_states: 
     balance_due: balance due
     credit_owed: credit owed
+    failed: failed
     paid: paid
   payment_updated: Paiement mis à jour
   payments: Paiements
@@ -807,6 +808,7 @@ fr-FR:
   provider: "Fournisseur"
   provider_settings_warning: "Si vous editer le type de fournisseur, vous devez d'abord sauver avant de pouvoir editer les paramètre du fournisseur"
   qty: Qté
+  quantity_returned: Quantity Returned
   quantity_shipped: Quantité envoyée
   range: "Période"
   rate: Taux

@@ -628,6 +628,7 @@ et:
   payment_states: 
     balance_due: balance due
     credit_owed: credit owed
+    failed: failed
     paid: paid
   payment_updated: Makse uuendatud
   payments: Maksed
@@ -807,6 +808,7 @@ et:
   provider: Varustaja
   provider_settings_warning: Varustaja sätete muutmiseks peab eelnevalt varustaja salvestama
   qty: Kogus
+  quantity_returned: Quantity Returned
   quantity_shipped: Postitatud kogus
   range: Ulatus
   rate: Hind

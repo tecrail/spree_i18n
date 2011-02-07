@@ -628,6 +628,7 @@ zh-CN:
   payment_states: 
     balance_due: balance due
     credit_owed: credit owed
+    failed: failed
     paid: paid
   payment_updated: "支付已更新"
   payments: "支付"
@@ -807,6 +808,7 @@ zh-CN:
   provider: "提供者"
   provider_settings_warning: "如果您正在修改提供者类型，您需要在编辑提供者设置之前先保存。"
   qty: "数量"
+  quantity_returned: Quantity Returned
   quantity_shipped: "已发货数量"
   range: "范围"
   rate: "费率"
