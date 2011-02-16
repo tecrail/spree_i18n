@@ -407,7 +407,7 @@ it:
   flat_rate_per_item: "Tasso netto (per oggetto)"
   flat_rate_per_order: "Tasso netto (per ordine)"
   flexible_rate: "Tasso Flessibile"
-  forgot_password: "Password perduta"
+  forgot_password: "Hai dimenticato la password?"
   free_shipping: "Spedizione gratuita"
   front_end: "Front End"
   full_name: "Nome completo"
@@ -781,7 +781,7 @@ it:
         name: "Con proprietà e valore"
         sentence: "con proprietà <em>%s</em> e valore <em>%s</em>"
   products: "Prodotti"
-  products_with_zero_inventory_display: "I prodotti esauriti{{not}} sono visualizzati"
+  products_with_zero_inventory_display: "I prodotti esauriti %{not} sono visualizzati"
   promotion_form: 
     match_policies: 
       all: "Una qualunque di queste regole"
@@ -868,6 +868,8 @@ it:
   send_mails_as: "Manda l'email come"
   send_me_reset_password_instructions: "Inviami le istruzioni per il reset della password"
   send_order_mails_as: "Manda le mail degli ordini come"
+  send_instructions: "Riceverai un messaggio email con le istruzioni per reimpostare la tua password entro qualche minuto"
+  updated: "La tua password è stata cambiata. Ora sei collegato."
   server: "Server"
   server_error: "Il server ha riportato un errore"
   settings: "Impostazioni"
